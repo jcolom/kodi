@@ -1,6 +1,5 @@
 name="JMC Build v1.0"
-url="http://www.ch1vph.xyz/kodi/tom/tombuild.zip"
-img="http://www.ch1vph.xyz/kodi/tom/icon.png"
-fanart="http://www.ch1vph.xyz/kodi/tom/fanart.jpg"
+url="https://github.com/jcolom/kodi/blob/master/jmc/jmc.zip?raw=true"
+img="https://github.com/jcolom/kodi/blob/master/jmc/logo.png?raw=true"
 description="JMC 18.7 build wizard"
 version="1.0.0"
