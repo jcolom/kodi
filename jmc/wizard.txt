@@ -1,5 +1,5 @@
 name="JMC Build v1.0"
-url="https://github.com/jcolom/kodi/blob/master/jmc/jmc.zip?raw=true"
+url="https://raw.githubusercontent.com/jcolom/kodi/master/jmc/jmc.zip"
 img="https://raw.githubusercontent.com/jcolom/kodi/master/jmc/logo.png"
 description="JMC 18.7 build wizard"
 version="1.0.0"
